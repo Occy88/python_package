@@ -1,0 +1,5 @@
+pipreqs==0.4.10
+pre-commit>=2.12.1
+setuptools>=49.2.1
+Sphinx==4.1.1
+sphinx-rtd-theme==0.5.2
